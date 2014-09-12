@@ -17,7 +17,7 @@ Para atualizar o projeto de testes .. no terminal, ir a pasta dele .. e rodar: p
 ——
 
 Para instalar  Pod privado num projeto novo:
-pod repo add (seu spec do seu git)
+pod repo add GCKit https://github.com/lgcassab/Specs
 pod repo update
 pod install
 Seu podfile tem q ter o gckit la
